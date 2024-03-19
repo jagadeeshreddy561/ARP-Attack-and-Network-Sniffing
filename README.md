@@ -1,4 +1,4 @@
-![EXP-3 5](https://github.com/jagadeeshreddy561/ARP-Attack-and-Network-Sniffing/assets/120623104/72427839-a4d7-4555-9d56-ffeaf3328c78)# ARP-Attack-and-Network-Sniffing
+
 # Explore Network Sniffing and ARP Attacks
 
 # AIM:
